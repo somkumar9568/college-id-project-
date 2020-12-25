@@ -1,0 +1,51 @@
+.mainBody{
+   width: 400px;
+   height:600px;
+  
+   align-items: center;
+   justify-content: space-between;
+   margin: auto;
+   border-radius:5rem ;
+   box-shadow: 4px 0 12px red inset;
+  position: relative;
+  background-color:skyblue;
+}
+
+img{
+    background: url(".//SOM.JPG");
+    background-size: 200px 250px;
+    width: 200px;
+    height: 250px;
+    border-radius: 1rem;
+    box-shadow: 4px 0 12px black inset;
+}
+H1{
+    color:black;
+    width: 400px;
+    text-align: center;
+    font-size:25px;
+    padding: 5px 0px;
+    font-family: 'Raleway', 'Arial', sans-serif;
+    
+}
+
+H2{
+    color:red;
+}
+
+H3{
+  COLOR:rgb(0, 174, 255);
+}
+
+
+body{
+    background:url("../html/slider11.jpg");
+    background-position: center;
+    background-size: 1320px 900px;
+    color:black;
+    text-align: center;
+    border-color: rebeccapurple;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    background-color:red;
+    padding-left: 0%;
